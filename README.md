@@ -70,7 +70,7 @@ java org.antlr.v4.gui.TestRig GrammarName startRuleName
 
 ## IDE Extensions
 
-- If you are a EMACS/VIM user, I trust you can figure it out :thumbsup
+- If you are a EMACS/VIM user, I trust you can figure it out :thumbsup:
 - [Antlr Plugin For Pycharm](https://plugins.jetbrains.com/plugin/7358-antlr-v4)
 - [Antlr Plugin for Vscode](https://marketplace.visualstudio.com/items?itemName=mike-lischke.vscode-antlr4)
 
